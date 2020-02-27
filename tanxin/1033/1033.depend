@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582808540 source:d:\pat\tanxin\1033\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

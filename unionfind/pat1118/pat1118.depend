@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578317816 source:d:\pat\unionfind\pat1118\main.cpp
+	<cstdio>
+	<algorithm>
+	<vector>
+

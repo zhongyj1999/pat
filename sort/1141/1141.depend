@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582469025 source:d:\pat\sort\1141\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cctype>
+	<vector>
+	<map>
+

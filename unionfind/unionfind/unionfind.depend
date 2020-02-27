@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578315041 source:d:\pat\unionfind\unionfind\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<cctype>
+	<unordered_map>
+

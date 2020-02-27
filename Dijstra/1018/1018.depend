@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1580884935 source:d:\pat\dijstra\1018\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+	<cstring>
+

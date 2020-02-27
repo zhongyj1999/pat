@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1581253891 source:d:\pat\dijstra\1102\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1581258965 source:d:\pat\tree\1102\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+

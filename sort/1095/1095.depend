@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582381820 source:d:\pat\sort\1095\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<map>
+	<vector>
+	<string>
+
