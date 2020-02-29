@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582872197 source:d:\pat\erfen\1085\main.cpp
+	<iostream>
+
+1582960360 source:d:\pat\binarysearch\1085\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
