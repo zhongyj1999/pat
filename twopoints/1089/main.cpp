@@ -1,4 +1,3 @@
-//参考，没有很理解到插入排序和归并排序的特点
 #include <iostream>
 #include <algorithm>
 
