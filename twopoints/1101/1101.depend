@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583049105 source:d:\pat\twopoints\1101\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
