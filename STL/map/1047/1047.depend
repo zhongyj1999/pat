@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583242109 source:d:\pat\stl\map\1047\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+
