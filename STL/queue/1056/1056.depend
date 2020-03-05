@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583378396 source:d:\pat\stl\queue\1056\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+
