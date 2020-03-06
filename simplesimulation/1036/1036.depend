@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583460983 source:d:\pat\simplesimulation\1036\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+
