@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583482171 source:d:\pat\sysconvert\1019\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

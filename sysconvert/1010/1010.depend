@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583489126 source:d:\pat\sysconvert\1010\main.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<cmath>
+
