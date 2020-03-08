@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583676251 source:d:\pat\multinomial\1002\main.cpp
+	<iostream>
+	<map>
+	<cmath>
+
