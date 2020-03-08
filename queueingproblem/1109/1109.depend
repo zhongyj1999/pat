@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583673494 source:d:\pat\queueingproblem\1109\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
