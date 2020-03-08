@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583639441 source:d:\pat\stringmanipulation\1071\main.cpp
+	<iostream>
+	<map>
+	<set>
+	<string>
+

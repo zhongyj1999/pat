@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583656692 source:d:\pat\stringmanipulation\1082\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cmath>
+	<cstring>
+
