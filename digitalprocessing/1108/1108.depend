@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583767200 source:d:\pat\digitalprocessing\1108\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+

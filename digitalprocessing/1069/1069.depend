@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583759136 source:d:\pat\digitalprocessing\1069\main.cpp
+	<iostream>
+	<algorithm>
+
