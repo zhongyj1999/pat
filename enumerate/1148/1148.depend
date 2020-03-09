@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583746630 source:d:\pat\enumerate\1148\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
