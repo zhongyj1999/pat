@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583736061 source:d:\pat\permutation\1093\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+
