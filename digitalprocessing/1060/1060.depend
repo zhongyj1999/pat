@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583822365 source:d:\pat\digitalprocessing\1060\main.cpp
+	<iostream>
+	<vector>
+
