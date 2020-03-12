@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584017774 source:d:\pat\hash\1154\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
