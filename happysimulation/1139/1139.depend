@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583922339 source:d:\pat\happysimulation\1139\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+
