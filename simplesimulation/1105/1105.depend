@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583998259 source:d:\pat\simplesimulation\1105\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
